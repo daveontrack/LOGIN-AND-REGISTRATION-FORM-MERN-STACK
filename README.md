@@ -11,5 +11,4 @@ Features
 
 🧼 Password Hashing with bcrypt
 
-🔒 Protected Routes (Private Dashboard)
 
