@@ -11,4 +11,6 @@ Features
 
 🧼 Password Hashing with bcrypt
 
+🔒 Two-Factor Authentication (2FA) for Enhanced Security
+
 
